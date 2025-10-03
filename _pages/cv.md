@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Machine learning and optimization,  2016-Present
+  * Conservatoire National des Arts et Métiers
+  * Supervisors: Safia Kedad-Sidoum and Emmanuel Rachelson
+
+* M.Sc in Applied Mathematics, 2020-2022
+  * ISAE-SUPAERO
+
+* B.Sc in Mathematics and Physics, 2019-2020
+  * ISAE-SUPAERO
+
 
 Work experience
 ======

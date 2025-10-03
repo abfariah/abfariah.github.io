@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Strang / Site Title"
+title                    : "Paul Strang"
 title_separator          : "-"
 name                     : &name "Paul Strang"
 description              : &description "Phd Candidate in machine learning and optimization"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul Strang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate in machine learning and optimization @ EDF R&D"
   location         : "Paris, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
