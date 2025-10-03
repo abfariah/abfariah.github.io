@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD candidate in combinatorial optimization and machine learning"" 
+title: "PhD candidate in machine learning and optimization" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
