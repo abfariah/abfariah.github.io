@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paul Strang"
 title_separator          : "-"
 name                     : &name "Paul Strang"
-description              : &description "Phd Candidate in machine learning and optimization"
+description              : &description "Bio"
 url                      : https://abfariah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abfariah/abfariah.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Paul Strang"
   avatar           : "profile.png"
-  bio              : "I like books and computers."
+  bio              : "I like books and computers \U0001F4DA\U0001F4BB"
   location         : "Paris, France"
-  employer         : "EDF"
+  employer         : # "EDF"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=e4OzA4cAAAAJ&hl=fr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
