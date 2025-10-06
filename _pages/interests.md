@@ -5,22 +5,21 @@ permalink: /interests/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Research interests
 ======
-* Reinforcement Learning
-* Optimization
-* Generative models
-* Geometric deep learning
+* Reinforcement learning 🤖
+* Optimization ⚙️
+* Generative models 🎨
+* Geometric deep learning <img src="../images/pyg.png" alt="nucleus" width="18" style="vertical-align:middle;">
+
 
 
 
 Other interests
 ======
-* Electricity systems
-* Nuclear energy
-* Energy markets
-* Climate studies
-* Computational biology
-* History of science
+* Electricity systems⚡
+* Nuclear energy ⚛️​
+* Energy markets 📈​
+* Climate studies 🌍
+* Computational biology 🧬
+* History of science 📜
