@@ -1,6 +1,13 @@
-<div style="display: flex; justify-content: space-between; gap: 2rem;">
+---
+layout: archive
+title: "Interests"
+permalink: /interests/
+author_profile: true
+---
 
-<div style="flex: 1;">
+<div class="columns">
+
+<div>
 ### Research interests
 * Reinforcement learning 🤖
 * Optimization ⚙️
@@ -8,7 +15,7 @@
 * Geometric deep learning <img src="../images/pyg.png" alt="nucleus" width="18" style="vertical-align:middle;">
 </div>
 
-<div style="flex: 1;">
+<div>
 ### Other interests
 * Electricity systems ⚡
 * Nuclear energy ⚛️
