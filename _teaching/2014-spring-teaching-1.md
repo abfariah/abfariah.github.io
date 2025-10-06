@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 1"
+title: "Reinforcement learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Training program"
+permalink: /teaching/edf/
+venue: "EDF R&D"
+date: 2024
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In charge of a training program on reinforcement learning for researchers and engineers at EDF R&D. The program covers fundamental concepts, algorithms, and practical applications of reinforcement learning in industrial settings. The course follows Emmanuel Rachelson's [MVA class](https://github.com/abfariah/RL_Class).
 
-Heading 1
+Approximate dynamic programming
+======
+* Markov Decision Processes
+* Value iteration
+* Policy iteration
+* Q-learning
+* Deep Q-Networks
+
+Policy Gradient methods
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+* Policy gradient theorem
+* REINFORCE
+* Actor-Critic methods
+* Proximal Policy Optimization
