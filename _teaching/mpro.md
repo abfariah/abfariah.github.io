@@ -4,7 +4,7 @@ collection: teaching
 type: "Master 2 course"
 permalink: /teaching/mpro/
 venue: "Conservatoire des arts et métiers, Department"
-date: "2025"
+date: "2025-01-01"
 location: "Paris, France"
 ---
 
