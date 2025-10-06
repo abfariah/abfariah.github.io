@@ -3,7 +3,7 @@ title: "Planning in Branch-and-Bound: Model-based Reinforcement Learning for Exa
 collection: publications
 permalink: /publication/planbb
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
-date: 2026
+date: "2026"
 venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: 'P. Strang et al. (2026).'
