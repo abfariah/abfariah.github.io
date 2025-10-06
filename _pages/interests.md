@@ -1,25 +1,21 @@
----
-layout: archive
-title: "Interests"
-permalink: /interests/
-author_profile: true
----
+<div style="display: flex; justify-content: space-between; gap: 2rem;">
 
-Research interests
-======
+<div style="flex: 1;">
+### Research interests
 * Reinforcement learning 🤖
 * Optimization ⚙️
 * Generative models 🎨
 * Geometric deep learning <img src="../images/pyg.png" alt="nucleus" width="18" style="vertical-align:middle;">
+</div>
 
-
-
-
-Other interests
-======
-* Electricity systems⚡
-* Nuclear energy ⚛️​
-* Energy markets 📈​
+<div style="flex: 1;">
+### Other interests
+* Electricity systems ⚡
+* Nuclear energy ⚛️
+* Energy markets 📈
 * Climate studies 🌍
 * Computational biology 🧬
 * History of science 📜
+</div>
+
+</div>
