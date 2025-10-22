@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 I'm Paul Strang, a PhD candidate in Reinforcement learning and combinatorial optimization. 
+Hi there 👋
 
-I am passionate about leveraging machine learning techniques to solve complex optimization problems, particularly in the context of energy systems. My research focuses on developing innovative algorithms that can enhance decision-making processes and improve efficiency in various applications.
-
-I gradually completed my Master's degree in Computer Science with a specialization in Artificial Intelligence from the [CNAM](https://tinyurl.com/k328hx3s). During my studies, I developed a strong foundation in machine learning, optimization, and data analysis.
+I am a Ph.D. candidate at EDF R&D and CNAM in Paris, working at the intersection of reinforcement learning and combinatorial optimization. My research focuses on model-based planning for mixed-integer linear programming and the integration of learning methods into exact optimization pipelines. I am broadly interested in reinforcement learning theory, generative modeling, and the foundations of optimization.
