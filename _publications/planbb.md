@@ -6,7 +6,7 @@ excerpt: "We introduce PlanB&B, a model-based reinforcement learning agent that 
 date: 2026-01-01
 venue: Preprint
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
-citation: 'P. Strang et al. (2026).'
+citation: 'Strang, P., Alès, Z., Bissuel, C., Juan, O., Kedad-Sidhoum, S., Rachelson, E., (2025). Planning in Branch-and-Bound: Model-based Reinforcement Learning for Exact Combinatorial Optimization. <i>Preprint</i>.'
 ---
  Mixed-Integer Linear Programming (MILP) lies at the core of many real-world combinatorial optimization (CO) problems, traditionally solved by branch-and-bound (B&B). 
 A key driver influencing B&B solvers efficiency is the variable selection heuristic that guides branching decisions. 
