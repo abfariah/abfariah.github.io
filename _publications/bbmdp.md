@@ -1,5 +1,5 @@
 ---
-title: "A Markov decision process for variable selection in branch & bound"
+title: "A Markov decision process for variable selection in Branch & Bound"
 collection: publications
 permalink: /publication/bbmdp
 excerpt: 'In this work, we introduce BBMDP, a principled vanilla MDP formulation for variable selection in B&B, allowing to leverage a broad range of RL algorithms for the purpose of learning optimal B&B heuristics.'
