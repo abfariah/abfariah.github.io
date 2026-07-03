@@ -45,3 +45,24 @@
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
 }
+
+.keyword-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0.5em 0 1em;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: inline-block;
+    padding: 0.25em 0.75em;
+    color: $gray;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.4;
+    background-color: $lighter-gray;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+  }
+}
