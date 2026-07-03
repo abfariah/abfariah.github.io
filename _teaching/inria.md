@@ -8,19 +8,8 @@ date: "2026-06-25"
 location: "Le Bourget-du-Lac, France"
 ---
 
-In charge of an internal reinforcement learning training program open to researchers and engineers at EDF R&D. The program covers fundamental concepts, algorithms, and practical applications of reinforcement learning in industrial settings. The course follows Emmanuel Rachelson's MVA class [material](https://github.com/abfariah/RL_Class).
+Research seminar at the [CEA-EDF-Inria 2026 Summer School on numerical analysis](https://ecoles-cea-edf-inria.fr/en/schools/ecole-analyse-numerique-de-2026/).
 
-Approximate dynamic programming
-======
-* Markov Decision Processes
-* Value iteration
-* Q-learning
-* Deep Q-Networks
+**Abstract**
 
-Policy Gradient methods
-======
-
-* Policy gradient theorem
-* REINFORCE
-* Actor-Critic methods
-* Proximal Policy Optimization
+Modern mixed-integer linear programming (MILP) solvers are built upon the branch-and-bound (B&B) paradigm. Since the 1980s, considerable research and engineering effort has gone into refining these solvers, resulting in highly optimized systems driven by expert-designed heuristics tuned over large benchmarks. However, in operational settings where structurally similarproblems are solved repeatedly, adapting solver heuristics to the distribution of encountered MILPs can lead to substantial gains in efficiency, beyond what static, hand-crafted heuristics can offer. Recent research has thus turned to machine learning (ML) to design efficient, data-driven B&B heuristics tailored to specific instance distributions. Here, we propose adapting recent reinforcement learning (RL) approaches, known for having achieved breakthroughs in complex combinatorial games such as chess or go, to the setting of exact combinatorial optimization. Drawing on the MuZero architecture, we introduce Plan-and-Branch-and-Bound (PlanB&B), a model-based reinforcement learning (MBRL) agent that leverages an internal model of the B&B dynamics to learn improved variable selection strategies.
