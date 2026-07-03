@@ -8,7 +8,7 @@ date: "2026-06-25"
 location: "Le Bourget-du-Lac, France"
 ---
 
-Research seminar at the [CEA-EDF-Inria 2026 Summer School on numerical analysis](https://ecoles-cea-edf-inria.fr/en/schools/ecole-analyse-numerique-de-2026/).
+[Link to the summer school website](https://ecoles-cea-edf-inria.fr/en/schools/ecole-analyse-numerique-de-2026/).
 
 **Abstract**
 

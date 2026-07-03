@@ -2,24 +2,12 @@
 title: "Learning to solve repeated combinatorial optimization problems exactly"
 collection: publications
 permalink: /publication/phd
-excerpt: 'PhD manuscript'
+excerpt: 'PhD dissertation'
 date: 2026-05-28
-# venue: #'Ecole doctorale des sciences des métiers et de l''ingénieur (ED 432)'
+venue: 'Ecole doctorale des sciences des métiers et de l''ingénieur'
 paperurl: #
 citation: 'Strang, P. (2026). Learning to solve repeated combinatorial optimization problems exactly (Doctoral dissertation, HESAM Université).'
 ---
-
-**Jury**
-- Dr. Riad Akrour, Inria, France (reviewer)
-- Prof. Thibaut Vidal, Polytechnique Montréal, Canada (reviewer)
-- Prof. Sourour Elloumi, ENSTA IP Paris, France (president)
-- Dr. Mathieu Besançon, Inria, France (examiner)
-- Prof. Axel Parmentier, ENPC, France (examiner)
-- Prof. Safia Kedad-Sidhoum, Cnam, France (supervisor)
-- Prof. Emmanuel Rachelson, ISAE-Supaero, France (co-supervisor)
-- Prof. Zacharie Alès, ENSTA IP Paris, France (advisor)
-<!-- - Dr. Olivier Juan, EDF R&D, France (guest)
-- Côme Bissuel, EDF R&D, France (guest) -->
 
 **Keywords**
 
@@ -47,3 +35,13 @@ Inspired by the success of AlphaZero in complex combinatorial board games, we ex
 
 
 [Access the manuscript](/files/manuscript.pdf)
+
+**Jury**
+- Dr. Riad Akrour, Inria, France (reviewer)
+- Prof. Thibaut Vidal, Polytechnique Montréal, Canada (reviewer)
+- Prof. Sourour Elloumi, ENSTA IP Paris, France (president)
+- Dr. Mathieu Besançon, Inria, France (examiner)
+- Prof. Axel Parmentier, ENPC, France (examiner)
+- Prof. Safia Kedad-Sidhoum, Cnam, France (supervisor)
+- Prof. Emmanuel Rachelson, ISAE-Supaero, France (co-supervisor)
+- Prof. Zacharie Alès, ENSTA IP Paris, France (advisor)
